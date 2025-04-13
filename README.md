@@ -7,12 +7,6 @@ This site showcases my work in Data Science, Full-Stack Development, and AI-inte
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](./css/images/Seakty.jpg)
-
----
-
 ## 🧑‍💻 About Me
 
 Hi, I’m **Sambath Seakty**, a 3rd-year Data Science engineering student at ITC. I’m passionate about:
